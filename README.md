@@ -1,9 +1,11 @@
 Hello!
 
-I work on open source software projects in my spare time. Projects I create
-will always be available free of charge and under very permissive licenses
-(e.g. [ISC](https://opensource.org/licenses/ISC) or
+I write open source software projects in my spare time. Projects I create will
+always be available free of charge and under very permissive licenses (e.g.
+[ISC](https://opensource.org/licenses/ISC) or
 [MIT](https://opensource.org/licenses/MIT)).
+
+---
 
 Here are some of the projects I work on:
 
@@ -19,6 +21,15 @@ Here are some of the projects I work on:
   soft debugger.
 * **[System.Terminal](https://github.com/alexrp/system-terminal):** A
   terminal-centric replacement for System.Console.
+
+---
+
+I occasionally write blog articles that are occasionally interesting:
+
+* [Untangling .NET Atomics: Defining Terms](https://alexrp.com/untangling-dotnet-atomics-defining-terms)
+* [Untangling .NET Atomics: The Status Quo](https://alexrp.com/untangling-dotnet-atomics-the-status-quo)
+
+---
 
 If you like the software I work on and would like to support me financially so
 that I can continue that work, please consider [sponsoring
