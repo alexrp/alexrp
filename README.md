@@ -7,12 +7,8 @@ always be available free of charge and under very permissive licenses (e.g.
 
 ---
 
-Here are some of the projects I work on:
+Here are some of the projects I currently work on:
 
-* **[Alkahest](https://github.com/tera-alkahest):** An extensible TERA proxy
-  server.
-* **[Augmentrex](https://github.com/alexrp/augmentrex):** A reverse engineering
-  tool for the Steam version of Hellgate: London.
 * **[Flare](https://github.com/flare-lang):** A dynamic programming language
   suitable for embedding.
 * **[Mono](https://github.com/mono/mono):** Open source implementation of C#,
