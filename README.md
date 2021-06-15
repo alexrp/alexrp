@@ -50,9 +50,9 @@ Here are some of the projects I used to work on:
 
 I occasionally write blog articles that are occasionally interesting:
 
-* [Untangling .NET Atomics: Defining Terms](https://alexrp.com/untangling-dotnet-atomics-defining-terms)
-* [Untangling .NET Atomics: The Status Quo](https://alexrp.com/untangling-dotnet-atomics-the-status-quo)
-* [Introducing ISC-0](https://alexrp.com/introducing-isc-0)
+* 2021-06-14 - [Introducing ISC-0](https://alexrp.com/introducing-isc-0)
+* 2021-05-26 - [Untangling .NET Atomics: The Status Quo](https://alexrp.com/untangling-dotnet-atomics-the-status-quo)
+* 2021-05-26 - [Untangling .NET Atomics: Defining Terms](https://alexrp.com/untangling-dotnet-atomics-defining-terms)
 
 ---
 
