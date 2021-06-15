@@ -11,6 +11,9 @@ Here are some of the projects I currently work on:
 
 * **[Flare](https://github.com/flare-lang):** A dynamic programming language
   suitable for embedding.
+* **[ISC-0](https://github.com/alexrp/isc-0):** The ISC No Attribution License
+  (ISC-0) is a modification to the original ISC License that removes the
+  attribution requirement.
 * **[Mono](https://github.com/mono/mono):** Open source implementation of C#,
   CLI, and .NET.
 * **[SDB](https://github.com/mono/sdb):** A command line client for the Mono
@@ -19,6 +22,10 @@ Here are some of the projects I currently work on:
   is right with the world.
 * **[System.Terminal](https://github.com/alexrp/system-terminal):** A
   terminal-centric replacement for System.Console.
+* **[Zig MSBuild SDK](https://github.com/alexrp/zig-msbuild-sdk):** An MSBuild
+  SDK for building Zig, C, and C++ projects using the Zig compiler.
+* **[Zig MSBuild Toolsets](https://github.com/alexrp/zig-msbuild-toolsets):**
+  The Zig compiler and standard library packaged for use in MSBuild.
 
 ---
 
