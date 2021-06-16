@@ -16,6 +16,8 @@ Here are some of the projects I currently work on:
   attribution requirement.
 * **[Mono](https://github.com/mono/mono):** Open source implementation of C#,
   CLI, and .NET.
+* **[MSBuild SDK Template](https://github.com/alexrp/msbuild-sdk-template):**
+  A template repository for sanely building a custom MSBuild SDK in .NET 6+.
 * **[SDB](https://github.com/mono/sdb):** A command line client for the Mono
   soft debugger.
 * **[Seiiki](https://github.com/seiiki-dev/seiiki):** A walled garden where all
@@ -50,6 +52,7 @@ Here are some of the projects I used to work on:
 
 I occasionally write blog articles that are occasionally interesting:
 
+* 2021-06-16 - [Sanely Testing MSBuild SDKs](https://alexrp.com/sanely-testing-msbuild-sdks)
 * 2021-06-14 - [Introducing ISC-0](https://alexrp.com/introducing-isc-0)
 * 2021-05-26 - [Untangling .NET Atomics: The Status Quo](https://alexrp.com/untangling-dotnet-atomics-the-status-quo)
 * 2021-05-26 - [Untangling .NET Atomics: Defining Terms](https://alexrp.com/untangling-dotnet-atomics-defining-terms)
@@ -57,5 +60,5 @@ I occasionally write blog articles that are occasionally interesting:
 ---
 
 If you like the software I work on and would like to support me financially so
-that I can continue that work, please consider [sponsoring
-me](https://github.com/sponsors/alexrp)!
+that I can continue that work, please consider
+[sponsoring me](https://github.com/sponsors/alexrp)!
