@@ -52,6 +52,7 @@ Here are some of the projects I used to work on:
 
 I occasionally write blog articles that are occasionally interesting:
 
+* 2021-06-20 - [QEMU and Dynamic Linking on Ubuntu](https://alexrp.com/qemu-and-dynamic-linking-on-ubuntu)
 * 2021-06-16 - [Sanely Testing MSBuild SDKs](https://alexrp.com/sanely-testing-msbuild-sdks)
 * 2021-06-14 - [Introducing ISC-0](https://alexrp.com/introducing-isc-0)
 * 2021-05-26 - [Untangling .NET Atomics: The Status Quo](https://alexrp.com/untangling-dotnet-atomics-the-status-quo)
