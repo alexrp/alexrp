@@ -20,8 +20,6 @@ Here are some of the projects I currently work on:
   A template repository for sanely building a custom MSBuild SDK in .NET 6+.
 * **[SDB](https://github.com/mono/sdb):** A command line client for the Mono
   soft debugger.
-* **[Seiiki](https://github.com/seiiki-dev/seiiki):** A walled garden where all
-  is right with the world.
 * **[System.Terminal](https://github.com/alexrp/system-terminal):** A
   terminal-centric replacement for System.Console.
 * **[Zig MSBuild SDK](https://github.com/alexrp/zig-msbuild-sdk):** An MSBuild
