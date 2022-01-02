@@ -11,9 +11,6 @@ Here are some of the projects I currently work on:
 
 * **[Flare](https://github.com/flare-lang):** A dynamic programming language
   suitable for embedding.
-* **[ISC-0](https://github.com/alexrp/isc-0):** The ISC No Attribution License
-  (ISC-0) is a modification to the original ISC License that removes the
-  attribution requirement.
 * **[Mono](https://github.com/mono/mono):** Open source implementation of C#,
   CLI, and .NET.
 * **[MSBuild SDK Template](https://github.com/alexrp/msbuild-sdk-template):**
