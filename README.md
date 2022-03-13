@@ -17,8 +17,8 @@ Here are some of the projects I currently work on:
   A template repository for sanely building a custom MSBuild SDK in .NET 6+.
 * **[SDB](https://github.com/mono/sdb):** A command line client for the Mono
   soft debugger.
-* **[System.Terminal](https://github.com/alexrp/system-terminal):** A
-  terminal-centric replacement for System.Console.
+* **[Cathode](https://github.com/alexrp/cathode):** A terminal-centric
+  replacement for System.Console.
 * **[Zig MSBuild SDK](https://github.com/alexrp/zig-msbuild-sdk):** An MSBuild
   SDK for building Zig, C, and C++ projects using the Zig compiler.
 * **[Zig MSBuild Toolsets](https://github.com/alexrp/zig-msbuild-toolsets):**
