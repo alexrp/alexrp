@@ -9,6 +9,8 @@ always be available free of charge and under very permissive licenses (e.g.
 
 Here are some of the projects I currently work on:
 
+* **[Cathode](https://github.com/alexrp/cathode):** A terminal-centric
+  replacement for System.Console.
 * **[Flare](https://github.com/flare-lang):** A dynamic programming language
   suitable for embedding.
 * **[Mono](https://github.com/mono/mono):** Open source implementation of C#,
@@ -17,8 +19,6 @@ Here are some of the projects I currently work on:
   A template repository for sanely building a custom MSBuild SDK in .NET 6+.
 * **[SDB](https://github.com/mono/sdb):** A command line client for the Mono
   soft debugger.
-* **[Cathode](https://github.com/alexrp/cathode):** A terminal-centric
-  replacement for System.Console.
 * **[Zig MSBuild SDK](https://github.com/alexrp/zig-msbuild-sdk):** An MSBuild
   SDK for building Zig, C, and C++ projects using the Zig compiler.
 * **[Zig MSBuild Toolsets](https://github.com/alexrp/zig-msbuild-toolsets):**
