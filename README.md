@@ -15,10 +15,10 @@ Here are some of the projects I currently work on:
   replacement for System.Console.
 * **[MSBuild SDK Template](https://github.com/alexrp/msbuild-sdk-template):** A
   template repository for sanely building a custom MSBuild SDK in .NET 6+.
-* **[Zig MSBuild SDK](https://github.com/vezel-dev/zig-msbuild-sdk):** An
-  MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler.
-* **[Zig MSBuild Toolsets](https://github.com/vezel-dev/zig-msbuild-toolsets):**
-  The Zig compiler and standard library packaged for use in MSBuild.
+* **[Zig SDK](https://github.com/vezel-dev/zig-msbuild-sdk):** An MSBuild SDK
+  for building Zig, C, and C++ projects using the Zig compiler.
+* **[Zig Toolsets](https://github.com/vezel-dev/zig-msbuild-toolsets):** The Zig
+  compiler and standard library packaged for use in MSBuild.
 
 ---
 
