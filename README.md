@@ -12,7 +12,7 @@ and articles.
 Here are some of the projects I currently work on:
 
 * **[Cathode](https://github.com/vezel-dev/cathode):** A terminal-centric
-  replacement for System.Console.
+  replacement for the .NET console APIs.
 * **[MSBuild SDK Template](https://github.com/alexrp/msbuild-sdk-template):** A
   template repository for sanely building a custom MSBuild SDK in .NET 6+.
 * **[Zig SDK](https://github.com/vezel-dev/zig-msbuild-sdk):** An MSBuild SDK
