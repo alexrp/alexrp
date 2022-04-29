@@ -15,6 +15,8 @@ Here are some of the projects I currently work on:
   replacement for the .NET console APIs.
 * **[MSBuild SDK Template](https://github.com/alexrp/msbuild-sdk-template):** A
   template repository for sanely building a custom MSBuild SDK in .NET 6+.
+* **[Novadrop](https://github.com/vezel-dev/novadrop):** A developer toolkit for
+  interacting with and modifying the TERA game client.
 * **[Zig SDK](https://github.com/vezel-dev/zig-msbuild-sdk):** An MSBuild SDK
   for building Zig, C, and C++ projects using the Zig compiler.
 * **[Zig Toolsets](https://github.com/vezel-dev/zig-msbuild-toolsets):** The Zig
