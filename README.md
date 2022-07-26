@@ -13,6 +13,8 @@ Here are some of the projects I currently work on:
 
 * **[Cathode](https://github.com/vezel-dev/cathode):** A terminal-centric
   replacement for the .NET console APIs.
+* **[Celerity](https://github.com/vezel-dev/celerity):** A gradually typed,
+  highly concurrent programming language suitable for embedding.
 * **[MSBuild SDK Template](https://github.com/alexrp/msbuild-sdk-template):** A
   template repository for sanely building a custom MSBuild SDK in .NET 6+.
 * **[Novadrop](https://github.com/vezel-dev/novadrop):** A developer toolkit for
@@ -38,8 +40,6 @@ Here are some of the projects I used to work on:
   dependency-based build tool loosely based on Make principles.
 * **[ExParsec](https://github.com/alexrp/ex_parsec):** A parser combinator
   library inspired by Parsec.
-* **[Flare](https://github.com/flare-lang):** A dynamic programming language
-  suitable for embedding.
 * **[Mono](https://github.com/mono/mono):** Open source implementation of C#,
   CLI, and .NET.
 * **[Oninaki Reincarnation](https://github.com/alexrp/oninaki-reincarnation):**
