@@ -13,8 +13,8 @@ Here are some of the projects I currently work on:
 
 * **[Cathode](https://github.com/vezel-dev/cathode):** A terminal-centric
   replacement for the .NET console APIs.
-* **[Celerity](https://github.com/vezel-dev/celerity):** A gradually typed,
-  highly concurrent programming language suitable for embedding.
+* **[Celerity](https://github.com/vezel-dev/celerity):** A highly concurrent and
+  expressive programming language suitable for embedding.
 * **[MSBuild SDK Template](https://github.com/alexrp/msbuild-sdk-template):** A
   template repository for sanely building a custom MSBuild SDK in .NET 6+.
 * **[Novadrop](https://github.com/vezel-dev/novadrop):** A developer toolkit for
