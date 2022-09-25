@@ -17,6 +17,8 @@ Here are some of the projects I currently work on:
   expressive programming language suitable for embedding.
 * **[MSBuild SDK Template](https://github.com/alexrp/msbuild-sdk-template):** A
   template repository for sanely building a custom MSBuild SDK in .NET 6+.
+* **[Niru](https://github.com/vezel-dev/niru):** A full-system computer emulator
+  written in C#.
 * **[Novadrop](https://github.com/vezel-dev/novadrop):** A developer toolkit for
   interacting with and modifying the TERA game client.
 * **[Ruptura](https://github.com/vezel-dev/ruptura):** A Windows DLL injection,
