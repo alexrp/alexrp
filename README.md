@@ -5,7 +5,7 @@ always be available free of charge and under very permissive licenses such as
 [0BSD](https://opensource.org/licenses/0BSD).
 
 [My personal website](https://alexrp.com) contains my resume, technical notes,
-and articles.
+and social links.
 
 ---
 
@@ -15,8 +15,6 @@ Here are some of the projects I currently work on:
   replacement for the .NET console APIs.
 * **[Celerity](https://github.com/vezel-dev/celerity):** A highly concurrent and
   expressive programming language suitable for embedding.
-* **[MSBuild SDK Template](https://github.com/alexrp/msbuild-sdk-template):** A
-  template repository for sanely building a custom MSBuild SDK in .NET 6+.
 * **[Niru](https://github.com/vezel-dev/niru):** A full-system computer emulator
   written in C#.
 * **[Novadrop](https://github.com/vezel-dev/novadrop):** A developer toolkit for
