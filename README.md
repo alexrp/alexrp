@@ -4,9 +4,6 @@ I write open source software projects in my spare time. Projects I create will
 always be available free of charge and under very permissive licenses such as
 [0BSD](https://opensource.org/licenses/0BSD).
 
-[My personal website](https://alexrp.com) contains my resume, technical notes,
-and social links.
-
 ---
 
 Here are some of the projects I currently work on:
