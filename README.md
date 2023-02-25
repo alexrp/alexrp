@@ -5,7 +5,7 @@ programming languages, virtual machines, and terminal applications. I do some
 occasional reverse engineering and game programming too. I've also ventured
 into kernel land a few times.
 
-I manage the non-profit, open source software corporation
+I manage the non-profit, open source software organization
 [Vezel](https://vezel.dev).
 
 Projects I create will always be available free of charge and under very
