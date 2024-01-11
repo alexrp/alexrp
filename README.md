@@ -9,7 +9,7 @@ I manage the non-profit, open source software organization
 [Vezel](https://vezel.dev).
 
 Projects I create will always be available free of charge and under very
-permissive licenses such as [0BSD](https://opensource.org/licenses/0BSD). If you
+permissive licenses such as [0BSD](https://opensource.org/license/0bsd). If you
 like the software I work on and would like to support me financially so that I
 can continue that work, please consider
 [sponsoring me](https://github.com/sponsors/alexrp)!
