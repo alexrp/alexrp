@@ -5,8 +5,8 @@ programming languages, virtual machines, and terminal applications. I do some
 occasional reverse engineering and game programming too. I've also ventured
 into kernel land a few times.
 
-I manage the non-profit, open source software organization
-[Vezel](https://vezel.dev).
+I manage the open source software organizations [Vezel](https://vezel.dev) and
+[SIGPWR](https://sigpwr.dev).
 
 Projects I create will always be available free of charge and under very
 permissive licenses such as [0BSD](https://opensource.org/license/0bsd). If you
